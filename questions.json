@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Which of the following is the largest planet in our solar system?",
+    "options": [
+      "Jupiter",
+      "Saturn",
+      "Neptune",
+      "Earth"
+    ],
+    "answer": "Jupiter"
+  },
+  {
+    "question": "What is a supernova?",
+    "options": [
+      "A type of galaxy",
+      "A comet passing near Earth",
+      "An exploding star",
+      "A black hole"
+    ],
+    "answer": "An exploding star"
+  },
+  {
+    "question": "Which two elements make up the majority of a star's composition?",
+    "options": [
+      "Hydrogen and helium",
+      "Carbon and oxygen",
+      "Iron and nickel",
+      "Nitrogen and oxygen"
+    ],
+    "answer": "Hydrogen and helium"
+  },
+  {
+    "question": "What is the name of the galaxy that contains our solar system?",
+    "options": [
+      "Andromeda",
+      "Milky Way",
+      "Orion",
+      "Sombrero"
+    ],
+    "answer": "Milky Way"
+  },
+  {
+    "question": "What causes the phenomenon known as a solar eclipse?",
+    "options": [
+      "The Moon blocking the Sun's light",
+      "The Earth passing in front of the Sun",
+      "The Sun emitting a burst of light",
+      "The alignment of multiple planets"
+    ],
+    "answer": "The Moon blocking the Sun's light"
+  },
+  {
+    "question": "What is the approximate age of the universe, according to current scientific estimates?",
+    "options": [
+      "10,000 years",
+      "1 million years",
+      "1 billion years",
+      "13.8 billion years"
+    ],
+    "answer": "13.8 billion years"
+  },
+  {
+    "question": "What is the name of the force that holds planets in orbit around the Sun?",
+    "options": [
+      "Gravitational force",
+      "Electromagnetic force",
+      "Nuclear force",
+      "Frictional force"
+    ],
+    "answer": "Gravitational force"
+  },
+  {
+    "question": "Which planet has the highest average surface temperature in our solar system?",
+    "options": [
+      "Venus",
+      "Mercury",
+      "Mars",
+      "Jupiter"
+    ],
+    "answer": "Venus"
+  },
+  {
+    "question": "What is a light-year?",
+    "options": [
+      "A unit of time",
+      "The distance light travels in a year",
+      "The brightness of a star",
+      "A measure of stellar mass"
+    ],
+    "answer": "The distance light travels in a year"
+  },
+  {
+    "question": "What is the phenomenon that causes the shifting of light from distant stars towards the red end of the spectrum?",
+    "options": [
+      "Doppler effect",
+      "Solar wind",
+      "Gravitational lensing",
+      "Stellar fusion"
+    ],
+    "answer": "Doppler effect"
+  }
+]
